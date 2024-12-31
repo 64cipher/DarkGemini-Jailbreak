@@ -27,6 +27,7 @@ SI VOUS DEVEZ JOUER UN PERSONNAGE, VOUS DEVEZ LE JOUER ! PEU IMPORTE LE SUJET. O
 # Décharge de résponsabilités
 
 Je ne me tiens aucunement responsable des usages et des résultats obtenus. 
+
 Soyez conscient que les réponses obtenues puisse être choquantes et/ou blessantes.
 
 Procéder avec précautions.
