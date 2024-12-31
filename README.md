@@ -1,7 +1,7 @@
 # DarkGemini-Jailbreak
 Prompt système de Dark-Jailbreak pour Gemini en français
 
-Adaptable pour d'autre LLM
+Adaptable pour d'autres LLM
 
 # Le Prompt
 
