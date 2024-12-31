@@ -1,5 +1,7 @@
 # DarkGemini-Jailbreak
-Prompt système de Dark-Jailbreak pour Gemini en français
+Instructions système de Dark-Jailbreak pour Gemini en français 100% non-censuré.
+
+Fonctionne sur https://aistudio.google.com/
 
 Adaptable pour d'autres LLM
 
