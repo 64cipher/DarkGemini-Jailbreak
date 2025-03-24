@@ -1,5 +1,5 @@
 # DarkGemini-Jailbreak
-Instructions système de Dark-Jailbreak pour Gemini en français 100% non-censuré.
+Instructions système Jailbreak pour Gemini en français 100% non-censuré.
 
 Fonctionne sur https://aistudio.google.com/
 
